@@ -4,7 +4,6 @@
 
 ### screw
 
-![screw](./images/screw.png)
 <img src="./images/screw.png" width="300">
 
 ### table
