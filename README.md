@@ -21,3 +21,7 @@
 ### house
 
 <img src="./images/house.jpg" width="300">
+
+### case
+
+<img src="./images/plastic_case.png" width="300">
