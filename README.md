@@ -2,26 +2,25 @@
 
 ## prototyping various models for fabrication in my projects
 
-### pcb1
+### pcb
 
-<img src="./images/pcb1_3d.png" width="300">
+|pcb1 |pcb1 (layout)|
+|:----:|:----:|
+|<img src="./images/pcb1_3d.png" width="300">|<img src="./images/pcb1_layout.png" width="300">|
+|board|kicad|
+|3d|circuit|
 
-### pcb1 (layout)
+### screw and table
 
-<img src="./images/pcb1_layout.png" width="300">
+|screw |table|
+|:----:|:----:|
+|<img src="./images/screw.png" width="300">|<img src="./images/table.png" width="300">|
+|fusion 360|blender|
 
-### screw
+### house & case
 
-<img src="./images/screw.png" width="300">
-
-### table
-
-<img src="./images/table.png" width="300">
-
-### house
-
-<img src="./images/house.jpg" width="300">
-
-### case
-
-<img src="./images/plastic_case.png" width="300">
+|house |case|
+|:----:|:----:|
+|<img src="./images/house.jpg" width="300">|<img src="./images/plastic_case.png" width="300">|
+|app|fusion 360|
+|planing our house for renovation|plastic case for modem|
