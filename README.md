@@ -4,8 +4,8 @@
 
 ### tools
 
-  fusion 360
-  Altium
+  - fusion 360
+  - Altium
 
 ### pcb
 
