@@ -2,6 +2,11 @@
 
 ## prototyping various models for fabrication in my projects
 
+### tools
+
+  fusion 360
+  Altium
+
 ### pcb
 
 |pcb1 |pcb1 (layout)|
